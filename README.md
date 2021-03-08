@@ -25,6 +25,8 @@ npm run build
 npm run lint
 ```
 
+### It is important that the address is: http://localhost:8080/
+
 ### Test account to check the functionality:
 
     Email: test_ksotoil_user@tfbnw.net
