@@ -25,7 +25,7 @@ npm run build
 npm run lint
 ```
 
-###Test account to check the functionality:
+### Test account to check the functionality:
 
     Email: test_ksotoil_user@tfbnw.net
 
