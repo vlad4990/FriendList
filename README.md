@@ -2,8 +2,9 @@
 
 This web application can download your facebook friends list and allows you to sort them
 
-<a href="https://ibb.co/Nshfbhf"><img src="https://i.ibb.co/Nshfbhf/2021-03-08-04-29-35.png" alt="2021-03-08-04-29-35" border="0"></a>
-<a href="https://ibb.co/GJkQ5yJ"><img src="https://i.ibb.co/GJkQ5yJ/2021-03-08-04-26-49.png" alt="2021-03-08-04-26-49" border="0"></a>
+<a href="https://ibb.co/QNzFgmv"><img src="https://i.ibb.co/7W8Jfyt/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/R9N0c56"><img src="https://i.ibb.co/pxQzdmK/image.png" alt="image" border="0"></a>
+
 
 ## Project setup
 ```
