@@ -2,9 +2,8 @@
 
 This web application can download your facebook friends list and allows you to sort them
 
-<a href="https://ibb.co/QNzFgmv"><img src="https://i.ibb.co/7W8Jfyt/image.png" alt="image" border="0"></a>
-<a href="https://ibb.co/R9N0c56"><img src="https://i.ibb.co/pxQzdmK/image.png" alt="image" border="0"></a>
-
+<a href="https://yapx.ru/v/REaYW" title="Изображение загружено на фотохостинг yapx.ru"><img src="https://i.yapx.ru/REaYW.png" alt="Хостинг картинок yapx.ru"></a>
+<a href="https://yapx.ru/v/REac9" title="Изображение загружено на фотохостинг yapx.ru"><img src="https://i.yapx.ru/REac9.png" alt="Хостинг картинок yapx.ru"></a>
 
 ## Project setup
 ```
